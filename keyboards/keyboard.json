@@ -11,6 +11,13 @@
     [{
         "action": {
           "type": "text",
+          "label": "О себе"
+        },
+        "color": "primary"
+    }],
+    [{
+        "action": {
+          "type": "text",
           "label": "Отменить"
         },
         "color": "negative"
