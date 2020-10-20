@@ -5,9 +5,9 @@ import json
 import vk
 
 # Указываем ключи доступа, id группы и версию API
-VK_API_ACCESS_TOKEN = 'abbd9e53577540e899a6f21a16ae3f1750dd256a69094895db2e9f5723b72d01ac03f5534338266a46e17'
+# VK_API_ACCESS_TOKEN = 
 VK_API_VERSION = '5.95'
-GROUP_ID = 196362480
+# GROUP_ID = 
 INT_MIN = -2147483648
 INT_MAX = 2147483647
 
